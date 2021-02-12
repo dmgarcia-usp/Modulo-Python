@@ -1,0 +1,5 @@
+#Statistcs
+
+def test(str):
+  print(str)
+  
